@@ -1,10 +1,17 @@
-# backgound
+# Flash light
 
-A flutter demo
+A flutter flight light demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple flutter project which toggles the background color of the screen when the flash light is tapped.
+
+Web demo:
+https://flash-light-event-demo.web.app/#/
+
+Android demo:
+https://drive.google.com/file/d/1NAMmcvWQHGy7o9p3FKfi-efGYC97FPPM/view?usp=sharing
+
 
 A few resources to get you started if this is your first Flutter project:
 
